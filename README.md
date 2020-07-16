@@ -14,6 +14,7 @@ Some of technical skills include Python, Java, AWS, Google Cloud Platform.
 - ⚡ Fun fact: ...
 - 💬 Ask me about anything (either a suggestion or a help).
 - 📫 How to reach me-> [roop.sai@outlook.in](mailto:roop.sai@outlook.in)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roopsai/)
 [![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roopsai.surampudi.1)
 
