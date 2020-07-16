@@ -4,15 +4,14 @@ I'm Electronics and Computer Enthusiast with good skills in programming :sunglas
 Apart from programming I have good experience in working with Cloud Computing and Networking. 
 Some of technical skills include Python, Java, AWS, Google Cloud Platform.
 
-
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning Django, Flutter, 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 💬 Ask me about anything (either a suggestion or a help).
+- 🔭 I’m currently working at Ericsson as a Student Intern.
+- 🌱 I’m currently learning Django, Flutter.
+<!-- - 👯 I’m looking to collaborate on 
+     - 🤔 I’m looking for help with 
+     - 😄 Pronouns: ...
+     - ⚡ Fun fact: 
+-->
+- 💬 Ask me about anything (either a suggestion or a help). I try my best to help you out.
 - 📫 How to reach me-> [roop.sai@outlook.in](mailto:roop.sai@outlook.in)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roopsai/)
