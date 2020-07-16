@@ -1,4 +1,4 @@
-### Hi 👋, I'm <span color="green">Roop Sai Surampudi</span> :man_technologist:. An Engineer :man_student:.
+### Hi 👋, I'm <span color="green">Roop Sai Surampudi</span> :man_technologist:. A Telecommunication Systems Engineer :man_student:
 
 I'm Electronics and Computer Enthusiast with good skills in programming :sunglasses:, specializing in developing efficient Web :snowflake: applications and enterprise Software applications. I love programming and aspires to build for good :running_man:. I like developing efficient and awesome applications and tools ⚒️. 
 Apart from programming I have good experience in working with Cloud Computing and Networking. 
