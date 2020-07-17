@@ -1,8 +1,8 @@
 ### Hi 👋, I'm <span color="green">Roop Sai Surampudi</span> :man_technologist:. A Telecommunication Systems Engineer :man_student:
 
 I'm Electronics and Computer Enthusiast with good skills in programming :sunglasses:, specializing in developing efficient Web :snowflake: applications and enterprise Software applications. I love programming and aspires to build for good :running_man:. I like developing efficient and awesome applications and tools ⚒️. 
-Apart from programming I have good experience in working with Cloud Computing and Networking. 
-Some of technical skills include Python, Java, AWS, Google Cloud Platform.
+Apart from programming I have good experience in working with Cloud Computing :cloud: and Networking :snowflake:. 
+Some of technical skills include Python :snake:, Java, AWS, Google Cloud Platform.
 
 - 🔭 I’m currently working at Ericsson as a Student Intern.
 - 🌱 I’m currently learning Django, Flutter.
