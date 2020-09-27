@@ -5,7 +5,6 @@ Apart from programming I have good experience in working with Cloud Computing :c
 Some of technical skills include Python :snake:, Java :coffee:, AWS, Google Cloud Platform :cloud:.
 
 - 🔭 I’m currently working at Ericsson as a Student Intern.
-- 🌱 I’m currently learning Django, Flutter.
 <!-- - 👯 I’m looking to collaborate on 
      - 🤔 I’m looking for help with 
      - 😄 Pronouns: ...
