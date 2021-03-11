@@ -4,7 +4,7 @@ I'm Electronics and Computer Enthusiast with good skills in programming :sunglas
 Apart from programming I have good experience in working with Cloud Computing :cloud: and Networking :snowflake:. 
 Some of technical skills include Python :snake:, Java :coffee:, Azure :cloud:.
 
-- 🔭 I’m currently working at Ericsson as a Student Intern.
+
 <!-- - 👯 I’m looking to collaborate on 
      - 🤔 I’m looking for help with 
      - 😄 Pronouns: ...
