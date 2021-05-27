@@ -7,3 +7,5 @@ Since then I pushed 401 commits, across 20 repositories, opened 17 issues, submi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roopsai/)
 [![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/roopsai.surampudi.1)
+![Roop Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sroopsai&show_icons=true&theme=material-palenight&count_private=true)
+
